@@ -1,6 +1,4 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="TesteCompuFour" />
-
   &#xa0;
 
   <!-- <a href="https://testecompufour.netlify.app">Demo</a> -->
@@ -46,7 +44,7 @@
 
 ## :dart: About ##
 
-Describe your project
+A job application test to work as a developer at CompuFour
 
 ## :sparkles: Features ##
 
@@ -76,6 +74,7 @@ You have been tasked with creating an API module that will connect to another AP
 The purpose of the module is to list the movies of this API in a personalized way.
 The first release of the API will be very limited in scope, but will serve as the foundation for
 future releases.
+
 **You will only do the backend application**
 
 ### FUNCTIONAL REQUIREMENTS
