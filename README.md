@@ -131,7 +131,7 @@ $ git clone https://github.com/dionathanCordova/testecompufour
 $ cd testecompufour
 
 # Install dependencies
-$ docker-compose start
+$ docker-compose up
 
 # The server will initialize in the <http://localhost>
 ```
