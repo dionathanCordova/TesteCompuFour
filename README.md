@@ -141,7 +141,7 @@ $ docker-compose up
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/dionathanCordova" target="_blank">Dionathan de Córdova</a>
+Made by <a href="https://github.com/dionathanCordova" target="_blank">Dionathan de Córdova</a>
 
 &#xa0;
 
